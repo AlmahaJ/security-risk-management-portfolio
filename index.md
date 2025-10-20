@@ -7,7 +7,7 @@ It includes: artefacts from units, my own contribution, a comparison between Uni
 
 Use the links below to read each part.
 
-- [Artefacts Overview](Artefacts_Overview.md)
+- [Artefacts Overview](Artefacts_overview.md)
 - [Unit 6 – Risk Identification (Pampered Pets)](Unit6_RiskIdentification.md)
 - [Unit 11 – Digitalisation Risk (Pampered Pets)](Unit11_FinalProject.md)
 - [Comparison: Unit 6 vs Unit 11](Comparison_Evaluation.md)
@@ -21,4 +21,5 @@ Use the links below to read each part.
 - Gather and use information from many sources  
 - Choose methods, tools, and controls to treat risks  
 - Explain legal, social, ethical, and professional issues in security
+
 
