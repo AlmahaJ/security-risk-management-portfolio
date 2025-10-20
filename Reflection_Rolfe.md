@@ -1,4 +1,4 @@
-# Reflection (Rolfe 2001) – 1,000 words
+# Reflection of what i did in this course
 
 ## WHAT
 This module joined security and risk into one way of thinking. It showed me that risk is not only hacking. Risk also comes from how people work, how data is stored, how suppliers behave, and how change is done. I learned that security work must connect to law and trust, not only to tools. The two main artefacts in this portfolio are from Unit 6 and Unit 11. Both use clear methods and link to real business needs.
@@ -32,3 +32,4 @@ For my personal growth, I will keep three rules. Rule one: ask early when I do n
 I also want to learn more about risk tools. A basic dashboard with a few KPIs, owners, and due dates would help me track actions. I want to try simple sensitivity checks on probabilities. I will also explore cloud labs to practise failover. I will keep using the Rolfe model because it helps me turn events into lessons. Asking WHAT, SO WHAT, and NOW WHAT keeps me honest and forward-looking.
 
 This module changed how I think. I now see security and risk as daily practice, not as theory. The Unit 6 artefact showed how to start small and help a real business. The Unit 11 artefact showed how to grow into a clear, tested plan with numbers and resilience. I feel ready to use these skills on real teams, serve users better, and protect trust.
+
